@@ -22,6 +22,8 @@ def division(a, b):
 
 def multiplication(a, b):
 
+	# This multiplies two numbers
+
 	product = a * b
 
 	return product
