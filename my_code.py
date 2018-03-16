@@ -1,12 +1,16 @@
 
 def addition(a, b):
 
-	summation = a + b + 0
+	summation = a + b
 
 	return summation
 
 
-def 
+def subtraction(a, b):
+
+	difference = a - b
+
+	return difference
 
 
 def division(a, b):
