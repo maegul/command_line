@@ -28,3 +28,9 @@ def multiplication(a, b):
 
 	return product
 
+def newMATHS(a, b):
+
+	magic = 3.14159 * 2
+
+	return magic
+
